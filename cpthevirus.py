@@ -9,7 +9,7 @@ import os
 argv=False
 try:
 	if (sys.argv[1]=="-version" or sys.argv[1]=="--version"):
-		print("ZipKrack - version 1.0")
+		print("ZipBomb - version 1.0")
 		argv=True
 	else:
 		pass
