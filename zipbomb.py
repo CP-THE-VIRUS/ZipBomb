@@ -1,6 +1,6 @@
 #!/use/bin/evn python3
 # https://github.com/CP-THE-VIRUS
-# Author - JABAL RUSHDU @jblfxe
+# Author - JABAL RUSHDU@jblfxe
 
 from zipfile import ZipFile
 import sys
