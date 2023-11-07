@@ -3,7 +3,7 @@
 
 # ZipBomb
 Crack zip files password.
-![](mk.png)
+![](mk.jbg)
 
 # Tested on
 - Kali Linux
