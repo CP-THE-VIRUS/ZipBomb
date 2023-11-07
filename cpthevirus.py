@@ -1,6 +1,6 @@
 #!/use/bin/evn python3
-# https://github.com/Cyber-Anonymous
-# Author - Sajjad
+# https://github.com/CP-THE-VIRUS
+# Author - JABAL RUSHDU @jblfxe
 
 from zipfile import ZipFile
 import sys
